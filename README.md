@@ -1,4 +1,4 @@
-# Slogo: Team 12
+# Slogo
 ## Basic Details
 * Names: Mary Stuart Elder, Jamie Palka, Jorge Raad, Eric Werbel, Deniz Simsek
 * Date started: February 18
@@ -53,8 +53,4 @@ Worked on internal backend and external backend. Implemented several turtle comm
 * Assumes user will not attempt to overwrite a previously-written command.
 ## Known Bugs
 * Commands will run in backwards order if they are not nested.
-* After creating a user instruction, user must restart the program if they want to use it. ** Very close to figuring out **
-## Extra Features
-* ADD MORE
-## Impressions
-your impressions of the assignment to help improve it in the future
+* After creating a user instruction, user must restart the program if they want to use it.
