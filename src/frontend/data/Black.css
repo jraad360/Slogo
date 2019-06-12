@@ -1,0 +1,52 @@
+.root {
+    -fx-font-size: 14pt;
+    -fx-font-family: "Georgia";
+    -fx-base: rgb(77, 77, 77);
+    -fx-background: rgb(0, 0, 0);
+}
+
+#subtitle {
+    -fx-font-size: 10pt;
+    -fx-font-family: "Georgia";
+    -fx-base: rgb(77, 77, 77);
+    -fx-background: rgb(0, 0, 0);
+}
+
+.button {
+    -fx-text-fill: rgb(255, 255, 255);
+    -fx-background-color: rgb(191, 191, 191);
+    -fx-border-radius: 20;
+    -fx-background-radius: 20;
+    -fx-padding: 5;
+}
+
+.button:hover {
+    -fx-background-color: #3a3a3a;
+}
+
+.combo-box-base {
+    -fx-text-fill: rgb(255, 255, 255);
+    -fx-background-color: rgb(191, 191, 191);
+    -fx-border-radius: 20;
+    -fx-background-radius: 20;
+}
+.combo-box-base:hover {
+    -fx-background-color: #3a3a3a;
+}
+
+.label {
+    -fx-font-size: 12pt;
+    -fx-font-family: "Georgia";
+    -fx-font-weight: bold;
+    -fx-text-fill: rgb(255, 255, 255);
+    -fx-opacity: 0.6;
+}
+
+.scroll-pane{
+    -fx-background-color:transparent;
+}
+
+.text-field {
+    -fx-font-size: 18pt;
+    -fx-font-family: "Segoe UI Semibold";
+}

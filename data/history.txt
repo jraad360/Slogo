@@ -1,0 +1,200 @@
+fd 50
+fd 4
+fd 50
+fd 540
+tree
+fd 50
+rt 90
+fd 50
+hi there
+fd 50
+\+
+\\+
++
+hi
+sum 10 10
+sum 10 10
+sum 10 10
+sum 10 10
+sum 10 10
+sum 10 10
+
+fd sum sum 10 10 10
+fd 50
+fd 50
+backward 50
+backwards 50
+back 50
+rt 90
+right 90
+left 50
+fd 50
+fd 50
+fd 100
+fd 100
+fd 100
+rt 90
+lt 50
+clear
+sum 10 10
+fd 100
+make :a 10
+make :a 1
+make :a 2
+[ sum 10 10 ]
+make :s 3
+make :a 3
+make :t 5
+make :s 4
+make :s 4
+make :s 4
+sum :s 3
+fd product :s 30
+fd product :s 4
+[ fd 50 ]
+[ fd 5 ]
+[ fd 50 ]
+[ fd 500 ]
+[ fd 500 ]
+[ fd 500 ]
+[ fd 500 ]
+[ fd 500 ]
+[ fd 500 ]
+[ fd 50 ]
+[ fd 500 ]
+[ fd 500 ]
+[ fd 500 ]
+[ fd 500 ]
+[ fd 500 ]
+[ fd 500 ]
+[ fd 500 ]
+if [ lessthan sum pi sin pi 700] [ backward 500 ]
+if [ lessthan sum pi sin pi 700] [ backwards 500 ]
+if [ less? sum pi sin pi 700] [ backward 500 ]
+if [ less? sum pi sin pi 700] [ backward 500 ]
+if less? sum pi sin pi 700 [ backward 500 ]
+if less? sum pi sin pi [ backward 500 ]
+if less? sum pi sin pi [ backwards 500 ]
+if less? sum pi sin pi [ back 500 ]
+if less? sum pi sin pi [ back product :s 100 ]
+if less? sum pi sin pi [ fd product :s 100 ]
+repeat 5 [ if less? sum pi sin pi [ back product :s 100 ] ]
+if less? sum pi sin pi [ back product :s 100 lt 90]
+repeat 2 [ if less? sum pi sin pi [ back product :s 100 ] lt 90 ]
+fd 50fd 50
+rt 90
+rt 90
+rt 90
+lf 90
+fd 50
+fd 50
+fd 50
+rt 90
+rt 90
+rt 90
+rt 180
+rt 90
+rt 90
+rt 90
+rt 90
+rt 90
+rt 90
+rt 90
+rt 180
+rt 90
+rt 180
+rt 180
+rt 270
+rt 360
+rt 0
+rt 180
+rt 90
+rt 180
+rt 90
+rt 90
+rt 90
+rt 90
+rt 90
+rt 90
+rt -1000
+rt 90
+rt 90
+rt 90
+rt 90
+rt 90
+rt 90
+rt 90
+rt 90
+rt 90
+left 90
+left 90
+fd 50
+rt 180
+fd 100
+fd 50
+bk 50
+sethead 80
+fd 50
+fd 50
+forward 1
+fd 200
+fd 20
+fd 100
+fd 10
+rt 90
+rt 90
+rt 180
+rt 90
+fd 100
+fd 70
+rt 90
+fd 70
+fd 60
+fd 100
+fd 100
+rt 90
+fd 50
+rt 90
+fd 50
+bk 100
+bk 100
+rt 90
+fd 100
+bk 50
+rt 90
+fd 100
+rt 90
+fd 100fd 200
+rt 90
+rt 180
+fd 200
+fd 200
+rt 90
+fd 10
+fd 10
+rt 90
+fd 100
+lt
+It 80
+It 80
+forward 10
+forward 1000
+backward 1000
+back 1000
+quotient 
+fd 100
+fd 100
+fd 100
+fd 100
+r 90
+rt 90
+fd 50
+fd 100
+fd 500
+fd 500
+fd 500
+fd 500
+fd 500
+fd 500
+back 40
+back 400

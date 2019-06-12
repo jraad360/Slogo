@@ -1,0 +1,8 @@
+
+home repeat 60 [ fd 10 [ repeat 5 [ pentagon lt 72  fd 50 ] ] ] back 400
+
+repeat 20 [ ifelse [ equalp remainder :a 2 0 ] [ make :a sum :a 1 fd 10 [ repeat 360 [ fd 1 lt 1 ] ] ] [ make :a sum :a 1 fd 10 pentagon ] ] make :a 0
+
+repeat 20 [ back 10 [ pentagon lt 72  fd 50 ]  ]
+
+chongfu 5 [ chongfu 72 [ qianjin 1 zuozhuan 1 ] youzhuan 90 qianjin 100 chongfu 180 [ qianjin 0.25 youzhuan 1 ] qianjin 100 youzhuan 90 ]

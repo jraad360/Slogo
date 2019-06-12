@@ -1,0 +1,14 @@
+def :x 20
+repete [ :x ] [ dev :x repete [ :x ] [ dev 50 dr 80 dev 20 gc 160 ] dr 90 dev 10 ]
+sic
+defett 315
+dev 150
+sac
+def :y 40
+repete [ :y ] [ dev :y repete [ :y ] [ dev 50 dr 80 dev 20 gc 160 ] dr 90 dev 10 ]
+sic
+defett 180
+dev 200
+sac
+def :z 80
+repete [ :z ] [ dev :z repete [ :z ] [ dev 50 dr 80 dev 20 gc 160 ] dr 90 dev 10 ]

@@ -1,0 +1,84 @@
+fd 50
+fd 4
+fd 50
+fd 540
+tree
+fd 50
+rt 90
+fd 50
+hi there
+fd 50
+\+
+\\+
++
+hi
+sum 10 10
+sum 10 10
+sum 10 10
+sum 10 10
+sum 10 10
+sum 10 10
+
+fd sum sum 10 10 10
+fd 50
+fd 50
+backward 50
+backwards 50
+back 50
+rt 90
+right 90
+left 50
+fd 50
+fd 50
+fd 100
+fd 100
+fd 100
+rt 90
+lt 50
+clear
+sum 10 10
+fd 100
+make :a 10
+make :a 1
+make :a 2
+[ sum 10 10 ]
+make :s 3
+make :a 3
+make :t 5
+make :s 4
+make :s 4
+make :s 4
+sum :s 3
+fd product :s 30
+fd product :s 4
+[ fd 50 ]
+[ fd 5 ]
+[ fd 50 ]
+[ fd 500 ]
+[ fd 500 ]
+[ fd 500 ]
+[ fd 500 ]
+[ fd 500 ]
+[ fd 500 ]
+[ fd 50 ]
+[ fd 500 ]
+[ fd 500 ]
+[ fd 500 ]
+[ fd 500 ]
+[ fd 500 ]
+[ fd 500 ]
+[ fd 500 ]
+if [ lessthan sum pi sin pi 700] [ backward 500 ]
+if [ lessthan sum pi sin pi 700] [ backwards 500 ]
+if [ less? sum pi sin pi 700] [ backward 500 ]
+if [ less? sum pi sin pi 700] [ backward 500 ]
+if less? sum pi sin pi 700 [ backward 500 ]
+if less? sum pi sin pi [ backward 500 ]
+if less? sum pi sin pi [ backwards 500 ]
+if less? sum pi sin pi [ back 500 ]
+if less? sum pi sin pi [ back product :s 100 ]
+if less? sum pi sin pi [ fd product :s 100 ]
+repeat 5 [ if less? sum pi sin pi [ back product :s 100 ] ]
+if less? sum pi sin pi [ back product :s 100 lt 90]
+repeat 2 [ if less? sum pi sin pi [ back product :s 100 ] lt 90 ]
+fd 50
