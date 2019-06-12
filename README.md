@@ -3,7 +3,7 @@
 * Names: Mary Stuart Elder, Jamie Palka, Jorge Raad, Eric Werbel, Deniz Simsek
 * Date started: February 18
 * Date finished: March 8
-* Total hours spent on project: ~70
+* Total hours spent on project: ~70 each
 ## Individual Roles
 ### Mary Stuart
 Worked primarily on the internal frontend. In particular, made the Bar ScrollPaneBar, and Display superclasses. From there, focused energy on the EnvironmentInfoBar, TurtleArea/InfoBar, TabController, and aspects of SlogoView. Assisted in debugging when possible. 
